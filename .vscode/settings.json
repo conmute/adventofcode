@@ -1,0 +1,18 @@
+{
+    // "deno.codeLens.test": true,
+    "deno.enable": true,
+    "deno.inlayHints.enumMemberValues.enabled": true,
+    "deno.inlayHints.parameterTypes.enabled": true,
+    "deno.inlayHints.functionLikeReturnTypes.enabled": true,
+    "deno.inlayHints.propertyDeclarationTypes.enabled": true,
+    "deno.inlayHints.variableTypes.enabled": true,
+    // "editor.formatOnSave": true,
+    // "editor.defaultFormatter": "denoland.vscode-deno",
+    // "[typescript]": { "editor.defaultFormatter": "denoland.vscode-deno" }
+    // "deno.inlayHints.variableTypes.enabled": true,
+    // "deno.inlayHints.propertyDeclarationTypes.enabled": true,
+    // "deno.inlayHints.parameterTypes.enabled": true,
+    // "deno.inlayHints.functionLikeReturnTypes.enabled": true,
+    // "deno.inlayHints.parameterNames.enabled": "all",
+    // "deno.inlayHints.enumMemberValues.enabled": true
+}
